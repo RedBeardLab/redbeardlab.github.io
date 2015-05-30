@@ -25,6 +25,10 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+.container a {
+    color: #fff;
+}
+
 h1,
 h2,
 h3,
@@ -467,3 +471,5 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+
