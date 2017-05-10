@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: RediSQL: Road to ~50K inserts per seconds.
+title: RediSQL, Road to ~50K inserts per seconds.
 ---
 
 
