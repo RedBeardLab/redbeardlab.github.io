@@ -103,5 +103,7 @@ If you are curious about more details I encourage you to open an issues in the r
 
 Similarly you are free to replicate the benchmarks yourself and share your results or uncertainty.
 
+[RediSQL source code is hosted on github :)][1]
+
 
 [1]: https://github.com/RedBeardLab/rediSQL
